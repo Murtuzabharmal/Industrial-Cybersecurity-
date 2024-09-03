@@ -394,6 +394,7 @@ The network was meticulously segmented into DMZ, Enterprise, and Industrial zone
 
 After the network setup, a red team conducted white-box testing to evaluate its security. The testing revealed no significant vulnerabilities, demonstrating the effectiveness of the security measures implemented. The only exception was a few open ports, which were continuously monitored to prevent any potential exploitation. This rigorous testing and monitoring affirm that the network is well-protected against external threats while maintaining operational efficiency.
 
+Note: Unfortunately, I don't have the source file for this project because I built it on Proxmox.
 
 
 
